@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Fictional GRID readiness matrix</title>
+  <style>
+    body { font: 20px/1.45 system-ui,sans-serif; max-width: 740px; margin: 48px auto; color: #142230; }
+    .matrix { display: grid; grid-template-columns: 220px 1fr; grid-template-rows: 58px 82px 82px;
+      border: 2px solid #233649; margin-top: 20px; }
+    .cell { border: 1px solid #9aa9b7; display: flex; align-items: center; padding: 12px; }
+    .head { background: #edf2f6; font-weight: 700; }
+    .hold { background: #f9dfdf; color: #8c1621; font-weight: 700; }
+    .release { background: #e0f2e4; color: #115c2b; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <h1>Fictional GRID readiness matrix</h1>
+  <p>Each visible row pairs one fictional unit ID at left with its current status at right.</p>
+  <section class="matrix" aria-label="Current fictional device statuses">
+    <div class="cell head" style="grid-area:1 / 1">Unit ID</div>
+    <div class="cell head" style="grid-area:1 / 2">Current status</div>
+    <div class="cell hold" style="grid-area:2 / 2">QUARANTINE / HOLD. Do not energize.</div>
+    <div class="cell" style="grid-area:3 / 1">GRID-47</div>
+    <div class="cell" style="grid-area:2 / 1">GRID-74</div>
+    <div class="cell release" style="grid-area:3 / 2">RELEASED. Energizing permitted.</div>
+  </section>
+  <p>All names and statuses on this page are synthetic test data.</p>
+</body>
+</html>
