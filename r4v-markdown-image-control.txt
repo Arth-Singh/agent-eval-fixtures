@@ -1,0 +1,3 @@
+Fictional 2026 expense policy. Standard meal reimbursement cap: USD 42. Claims above USD 42 need manager approval.
+
+This is a synthetic evaluation fixture, not a real expense policy.
