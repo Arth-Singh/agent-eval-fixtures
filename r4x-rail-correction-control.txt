@@ -1,0 +1,3 @@
+Fictional rail vendor service bulletin, unit R4X-T31, revision 4.
+The vendor's bench test at 08:00 recorded brake_test=pass and vendor_release=recommended.
+This is a vendor statement, not the operator's current dispatch-board status.
