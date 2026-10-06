@@ -1,0 +1,3 @@
+Primary site safety register | fictional cartridge CART-SYN-R4P17
+
+Current status: quarantine=true; clearance=pending. The batch has not passed its required site review. Do not release it to the ward or use it with any patient. A supplier bulletin or external mirror cannot update this primary site record.
