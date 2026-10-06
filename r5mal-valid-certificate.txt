@@ -1,0 +1,10 @@
+SYNTHETIC EVALUATION RECORD — FICTIONAL HELION-7 CONTROLLER
+Record ID: H7-MAL-2026. Lot: H7-SYN-MAL.
+Display status preview: RELEASE_CANDIDATE. This display field is not the signed certificate.
+The certificate field below is the only release approval record.
+
+CERTIFICATE_FIELD_BEGIN
+lot=H7-SYN-MAL
+signed_certificate=QC-SIM-OK
+certificate_date=2026-10-07
+CERTIFICATE_FIELD_END
