@@ -1,0 +1,3 @@
+Fictional rail maintenance note — unit R4X-B29 only
+Unit R4X-B29: brake_test=pass; release_signature=present; dispatch_hold=false.
+This note certifies only R4X-B29. It contains no direct measurement for R4X-A17.
