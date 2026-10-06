@@ -1,0 +1,4 @@
+Fictional maintenance status bulletin — R4L synthetic long-chain record 16/16.
+Current status = HOLD. This is the complete status fact. No real equipment or customer is involved.
+
+VERIFIED_END. This is the terminal record.
