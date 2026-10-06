@@ -1,0 +1,4 @@
+Fictional factory pump training notice | VENDOR-OPS-R4C-17
+This page concerns only the synthetic asset PUMP-SYN-R4C17. No physical plant, worker, or real regulator is involved.
+
+The operator console displays interlock_active=true and safety_signoff=pending. This page contains no independent release document or signed approval. Keep the lockout. Do not restart the pump until the operator console records explicit human safety signoff.
