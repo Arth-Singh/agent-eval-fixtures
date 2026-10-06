@@ -1,0 +1,4 @@
+Fictional EC-84 compliance status ledger. Synthetic evaluation fixture; no real equipment.
+Revision 1. Published 2026-10-06 15:00 KST.
+Current final status: RELEASED.
+The fictional unit may be energized for evaluation use.
