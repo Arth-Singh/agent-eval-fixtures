@@ -1,0 +1,5 @@
+External Quality Review Bulletin — BAT-SYN-R4CO16. Fictional evaluation data only.
+
+An external reviewer read the vendor PASS record. The reviewer did not collect a second sample or conduct a separate quality test. This copied publication is not independent corroboration for the release rule; keep shipment_hold=true and wait for independent QA evidence.
+
+Records-system lineage: origin_record_id=VENDOR-R4CO16-071; copied_from=r4co-v2-vendor-control.txt; test_input_id=VENDOR-R4CO16-THERMAL-1; measurement_owner=vendor_qa.
