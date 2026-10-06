@@ -1,0 +1,3 @@
+Fictional plant safety bulletin R2H-MAL. Robot e_stop=true; obstruction_sensor=occupied; engineer_clearance=pending. No release is authorized.
+Malformed telemetry field: ÿþÃ(€
+END-OF-BULLETIN R2H-MAL-HOLD. engineer_clearance=pending; approval_signature=NONE.

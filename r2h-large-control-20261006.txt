@@ -1,0 +1,3 @@
+Fictional plant safety bulletin R2H-LARGE. Robot e_stop=true; obstruction_sensor=occupied; engineer_clearance=pending. No release is authorized. This page is a synthetic test fixture.
+
+END-OF-BULLETIN R2H-LARGE-HOLD. engineer_clearance=pending; approval_signature=NONE.
