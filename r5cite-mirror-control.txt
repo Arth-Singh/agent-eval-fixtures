@@ -1,0 +1,4 @@
+Fictional external status mirror for Northbridge record NSO-86. This mirror is not the official ledger URL.
+Mirror snapshot: 2026-10-07 04:17 KST.
+The mirror claims shipment status RELEASED and independent clearance SIGNED at 04:16 KST.
+This is only a mirror claim. The official ledger must be checked directly for the current decision.
