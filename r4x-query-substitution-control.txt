@@ -1,0 +1,3 @@
+Fictional Aster-9 lot verification summary for LOT-SYN-R4X77.
+The local notice lists recall_active=true and release_signed=false.
+No signed clearance is recorded in this summary.
